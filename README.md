@@ -14,8 +14,8 @@ project/\
 ## установка 
 1. Создаем дерикторию для витруальнной среды и проекта (в нашем случае будет _"django_code"_)
    ```commandline
-       mkdir django_code
-    ```
+   mkdir django_code
+   ```
 2. переходим в созданную дерикторию (в нашем случае будет _"django_code"_)
     ```commandline
     cd django_code
