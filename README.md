@@ -50,7 +50,7 @@ django-admin --version
 django-admin startproject --template=https://github.com/DmitrySmor/django_template/archive/main.zip project
 ```
 ***
-все команды в одну опперцию выполняемые друг за другом
+все команды в одну операцию выполняемые друг за другом
 ```commandline
 mkdir django_code && \
 cd django_code && \
