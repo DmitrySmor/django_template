@@ -52,12 +52,12 @@ django-admin startproject --template=https://github.com/DmitrySmor/django_templa
 ***
 все команды в одну опперцию выполняемые друг за другом
 ```commandline
-mkdir django_code && 
-cd django_code && 
-python3 -m venv .venv &&  
-source .venv/bin/activate &&
-pip install --upgrade pip &&
-pip install Django &&
-django-admin startproject --template=https://github.com/DmitrySmor/django_template/archive/main.zip project &&
+mkdir django_code && \
+cd django_code && \
+python3 -m venv .venv &&  \
+source .venv/bin/activate && \
+pip install --upgrade pip && \
+pip install Django && \
+django-admin startproject --template=https://github.com/DmitrySmor/django_template/archive/main.zip project && \
 cd project
 ```
